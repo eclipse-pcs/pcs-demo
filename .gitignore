@@ -1,0 +1,12 @@
+/pcs-demo
+/pcs-encode
+/pcs-decode
+/pcsdemo2
+test/_data/storageA/
+test/_data/storageB/
+test/_data/storageC/
+test/_data/*_reconstructed*
+test/_data/Empty.txt
+.DS_Store
+**/.DS_Store
+*.out

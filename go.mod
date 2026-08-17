@@ -4,10 +4,8 @@ go 1.26.3
 
 require (
 	fyne.io/fyne/v2 v2.7.4
-	github.com/eclipse-pcs/pcs v0.0.0
+	github.com/eclipse-pcs/pcs v0.1.0
 )
-
-replace github.com/eclipse-pcs/pcs => ../pcs
 
 require (
 	fyne.io/systray v1.12.1 // indirect
